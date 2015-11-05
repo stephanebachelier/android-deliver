@@ -1,0 +1,40 @@
+{
+  "name": "android-deliver",
+  "version": "0.0.0",
+  "description": "android helper tool",
+  "license": "MIT",
+  "repository": "stephanebachelier/android-deliver",
+  "author": {
+    "name": "Stéphane Bachelier",
+    "email": "stephane.bachelier@gmail.com",
+    "url": "github.com/stephanebachelier"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    ""
+  ],
+  "dependencies": {
+    "meow": "^3.4.2"
+  },
+  "devDependencies": {
+    "ava": "^0.3.0",
+    "xo": "^0.10.0"
+  },
+  "xo": {
+    "ignores": [
+      "test.js"
+    ]
+  }
+}
