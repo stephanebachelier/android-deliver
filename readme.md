@@ -1,5 +1,9 @@
 # android-deliver [![Build Status](https://travis-ci.org/stephanebachelier/android-deliver.svg?branch=master)](https://travis-ci.org/stephanebachelier/android-deliver)
 
+## Notice
+
+Currently in heavy development..
+
 ## Install
 
 ```
